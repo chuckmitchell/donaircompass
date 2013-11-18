@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ActiveAndroid">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../island_of_doom/sidekick-android-project/sidekick-android/SentinelsSideKickProject/SentinelsSideKick/libs/ActiveAndroid.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
